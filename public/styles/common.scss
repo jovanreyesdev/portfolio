@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+@import "./colors";
+@import "./components";
+
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+}
